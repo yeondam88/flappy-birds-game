@@ -1,0 +1,15 @@
+body #main-container {
+  text-align: center; }
+  body #main-container .logo img {
+    margin-top: 40px; }
+
+body #section-1 {
+  text-align: center; }
+  body #section-1 .play-btn {
+    margin: 30px auto;
+    width: 20px;
+    padding: 20px 40px;
+    background-color: #2ecc71; }
+  body #section-1 .social-share-btn .socials li {
+    margin-top: 40px;
+    display: inline-block; }
